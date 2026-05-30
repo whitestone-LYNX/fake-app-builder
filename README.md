@@ -28,11 +28,12 @@ pip install pyinstaller pillow
 
 ## How to run
 
+Open a terminal wherever you saved the `.py`-file. 
+Enter this:
 ```
 python fake_app_builder.py
 ```
-
-That's it — a window opens and you're good to go.
+That's it, you're good to go.
 
 ---
 
